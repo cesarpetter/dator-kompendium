@@ -12,7 +12,7 @@ Allt material är ursprungligen mina antecningar och kompendier som jag har dela
 
 # Swisha till mig 🙌
 
-Vill du stötta mitt arbete eller visa uppskattning? Då kan du enkelt swisha genom att klicka på länken nedan – eller scanna QR-koden med din mobil. Det pengarna kommer oavkortat gå till kaffe för att göra mig mer produktiv 
+Vill du stötta mitt arbete eller visa uppskattning? Då kan du enkelt swisha genom att klicka på länken nedan – eller scanna QR-koden med din mobil. Alla bidrag kommer oavkortat gå till kaffe...
 
 ## 📱 Direktlänk till Swish
 
