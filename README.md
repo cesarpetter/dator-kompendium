@@ -25,14 +25,14 @@ Vill du stötta mitt arbete eller visa uppskattning? Då kan du enkelt swisha ge
 
 Om du hellre vill använda QR-kod – scanna bilden nedan i din Swish-app:
 
-![Swish QR-kod](assets/images/qr.png)
+![Swish QR-kod](qr.png)
 
 
 ## 📥 Ladda ner QR-koden
 
 Vill du spara QR-koden till mobilen eller skriva ut den?
 
-[📎 Klicka här för att ladda ner QR-koden](assets/images/qr.png)
+[📎 Klicka här för att ladda ner QR-koden](qr.png)
 
 ---
 
