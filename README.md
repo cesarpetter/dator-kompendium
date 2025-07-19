@@ -10,6 +10,34 @@ Allt material är ursprungligen mina antecningar och kompendier som jag har dela
 
 [https://htmlpreview.github.io/?https://rawcdn.githack.com/cesarpetter/dator-kompendium/66c42379bb23390b92cedea36edcf0151f7494d1/docs/datorteknik/index.html](https://raw.githack.com/cesarpetter/dator-kompendium/main/docs/datorteknik/index.html)
 
+# Swisha till mig 🙌
+
+Vill du stötta mitt arbete eller visa uppskattning? Då kan du enkelt swisha genom att klicka på länken nedan – eller scanna QR-koden med din mobil. Det pengarna kommer oavkortat gå till kaffe för att göra mig mer produktiv 
+
+## 📱 Direktlänk till Swish
+
+[👉 Klicka här för att öppna Swish](swish://payment?payee=0735008888&message=Tack%20för%20ditt%20jobb)
+
+> _OBS: Länken fungerar bara på enheter med Swish installerat._
+
+
+## 🔍 Scanna QR-koden
+
+Om du hellre vill använda QR-kod – scanna bilden nedan i din Swish-app:
+
+![Swish QR-kod](assets/images/qr.png)
+
+
+## 📥 Ladda ner QR-koden
+
+Vill du spara QR-koden till mobilen eller skriva ut den?
+
+[📎 Klicka här för att ladda ner QR-koden](assets/images/qr.png)
+
+---
+
+_Tack för ditt stöd!_
+
 # To-do list
 1. En uppsjö av bilder och diagram kommer att kompletteras
    
