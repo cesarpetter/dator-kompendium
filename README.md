@@ -8,6 +8,8 @@ Dessa kommer vara en separat bok.
 
 Allt material är ursprungligen mina antecningar och kompendier som jag har delat ut till eleverna. Allt detta matades in i Chat GPT och detta är resultatet
 
+https://htmlpreview.github.io/?https://rawcdn.githack.com/cesarpetter/dator-kompendium/66c42379bb23390b92cedea36edcf0151f7494d1/docs/datorteknik/index.html
+
 # To-do List
 1. En uppsjö av bilder och diagram kommer att kompletteras
 2. Uppdateringar som skall göras till innehållet (Chat GPT:s feedback)
