@@ -10,9 +10,11 @@ Allt material är ursprungligen mina antecningar och kompendier som jag har dela
 
 https://htmlpreview.github.io/?https://rawcdn.githack.com/cesarpetter/dator-kompendium/66c42379bb23390b92cedea36edcf0151f7494d1/docs/datorteknik/index.html
 
-# To-do List
+# To-do list
 1. En uppsjö av bilder och diagram kommer att kompletteras
-2. Uppdateringar som skall göras till innehållet (Chat GPT:s feedback)
+   
+# Avklarat
+<s>2. Uppdateringar som skall göras till innehållet (Chat GPT:s feedback)
 
   Kapitel 1. Förbättringspotential:
 Några avsnitt är något repetitiva i uttryck, t.ex. beskrivningar av CPU- eller GPU-egenskaper som överlappar (t.ex. cache nämns flera gånger).
@@ -95,7 +97,7 @@ Skulle kunna nämna "log retention" – hur länge man får spara loggar enligt 
 
 Kanske kunde lyfta red team / blue team som koncept?
 
-Möjligen kort nämna framtidens lagstiftning (t.ex. AI Act eller cybersäkerhetsdirektiv inom EU).
+Möjligen kort nämna framtidens lagstiftning (t.ex. AI Act eller cybersäkerhetsdirektiv inom EU).</s>
   
 ## Licens
 
