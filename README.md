@@ -10,6 +10,9 @@ Allt material är ursprungligen mina antecningar och kompendier som jag har dela
 
 👉 https://github.com/cesarpetter/dator-kompendium/blob/main/docs/datorteknik/datorteknik-draft-med%20kommentarer.pdf
 
+# Vill du ha i undervisningen 
+Hör av dig, aå hittar vi en bra lösning. Ingen vlir gladare än jag om du vill använda detta
+
 # Swisha till mig 🙌
 
 Vill du stötta mitt arbete eller visa uppskattning? Då kan du enkelt swisha genom att scanna koden med din mobil. Alla bidrag kommer oavkortat gå till kaffe...
@@ -130,7 +133,7 @@ Detta material är licensierat under [Creative Commons BY-NC-SA 4.0](https://cre
 
 Men du måste:
 - Ange källan
-- Inte använda det kommersiellt
+- Inte använda det kommersiellt, så endast personligt bruk!
 - Dela vidare med samma licens
 
 
