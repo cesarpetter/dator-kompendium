@@ -16,7 +16,7 @@ Vill du stötta mitt arbete eller visa uppskattning? Då kan du enkelt swisha ge
 
 ## 📱 Direktlänk till Swish
 
-👉 swish://payment?payee=0735008888&message=Tack%20för%20ditt%20jobb
+👉 <a href="swish://payment?data=%7B%22version%22%3A%221.0%22%2C%22payee%22%3A%7B%22value%22%3A%220735008888%22%7D%2C%22amount%22%3A%7B%22editable%22%3Atrue%2C%22value%22%3A%2210.00%22%7D%2C%22message%22%3A%7B%22editable%22%3Atrue%2C%22value%22%3A%22Tack%20f%C3%B6r%20ditt%20jobb%22%7D%7D"> Direktlänk </a>
 
  _OBS: Länken fungerar bara på enheter med Swish installerat._
 
