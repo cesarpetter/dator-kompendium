@@ -11,7 +11,7 @@ Allt material är ursprungligen mina antecningar och kompendier som jag har dela
 👉 https://github.com/cesarpetter/dator-kompendium/blob/main/docs/datorteknik/datorteknik-draft-med%20kommentarer.pdf
 
 # Vill du ha i undervisningen 
-Hör av dig, aå hittar vi en bra lösning. Ingen vlir gladare än jag om du vill använda detta
+Hör av dig, aå hittar vi en bra lösning. Ingen blir gladare än jag om du vill använda detta i din egen undervisning.
 
 # Swisha till mig 🙌
 
