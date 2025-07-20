@@ -14,9 +14,7 @@ Allt material är ursprungligen mina antecningar och kompendier som jag har dela
 
 Vill du stötta mitt arbete eller visa uppskattning? Då kan du enkelt swisha genom att klicka på länken nedan – eller scanna QR-koden med din mobil. Alla bidrag kommer oavkortat gå till kaffe...
 
-## 📱 (Direktlänk till Swish)
-
-👉 [swish://payment?data=%7B%22version%22%3A%221.0%22%2C%22payee%22%3A%7B%22value%22%3A%220735008888%22%7D%2C%22amount%22%3A%7B%22editable%22%3Atrue%2C%22value%22%3A%2210.00%22%7D%2C%22message%22%3A%7B%22editable%22%3Atrue%2C%22value%22%3A%22Tack%20f%C3%B6r%20ditt%20jobb%22%7D%7D]
+## 📱 (Direktlänk till Swish)[swish://payment?data=%7B%22version%22%3A%221.0%22%2C%22payee%22%3A%7B%22value%22%3A%220735008888%22%7D%2C%22amount%22%3A%7B%22editable%22%3Atrue%2C%22value%22%3A%2210.00%22%7D%2C%22message%22%3A%7B%22editable%22%3Atrue%2C%22value%22%3A%22Tack%20f%C3%B6r%20ditt%20jobb%22%7D%7D]
 
  _OBS: Länken fungerar bara på enheter med Swish installerat._
 
