@@ -10,6 +10,11 @@ Allt material är ursprungligen mina antecningar och kompendier som jag har dela
 
 👉 https://github.com/cesarpetter/dator-kompendium/blob/main/docs/datorteknik/datorteknik-draft-med%20kommentarer.pdf
 
+# Feedback 
+Tills dess att jag har löst en snygg markup m.m. så är du välkommen att skicka feedback till: robin.m.brack@gmail.com
+
+Tack
+
 # Vill du ha i undervisningen 
 Hör av dig, så hittar vi en bra lösning. Ingen blir gladare än jag om du vill använda detta i din egen undervisning.
 
