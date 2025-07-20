@@ -16,7 +16,7 @@ Vill du stötta mitt arbete eller visa uppskattning? Då kan du enkelt swisha ge
 
 ## 📱 Direktlänk till Swish
 
-[👉 Klicka här för att öppna Swish](swish://payment?payee=0735008888&message=Tack%20för%20ditt%20jobb)
+[👉 Klicka här för att öppna Swish swish://payment?payee=0735008888&message=Tack%20för%20ditt%20jobb
 
 > _OBS: Länken fungerar bara på enheter med Swish installerat._
 
