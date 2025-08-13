@@ -8,7 +8,7 @@ Dessa kommer vara en separat bok.
 
 Allt material är ursprungligen mina antecningar och kompendier som jag har delat ut till eleverna. Allt detta matades in i Chat GPT och detta är resultatet
 
-👉 https://github.com/cesarpetter/dator-kompendium/blob/main/docs/datorteknik/datorteknik-draft-med%20kommentarer.pdf
+👉 [https://github.com/cesarpetter/dator-kompendium/blob/main/docs/datorteknik/datorteknik-draft-med%20kommentarer.pdf](https://github.com/cesarpetter/dator-kompendium/blob/main/docs/datorteknik/datorteknik-0.9.pdf)
 
 # Feedback 
 Tills dess att jag har löst en snygg markup m.m. så är du välkommen att skicka feedback till: robin.m.brack@gmail.com
@@ -39,11 +39,14 @@ Vill du spara QR-koden till mobilen eller skriva ut den?
 
 _Tack för ditt stöd!_
 
-# To-do list
-1. En uppsjö av bilder och diagram kommer att kompletteras
+# To-do list (Uppdaterad 250814)
+Bildreferenslista
+Bildtexter
    
 # Avklarat
-<s>2. Uppdateringar som skall göras till innehållet (Chat GPT:s feedback)
+<s>
+1. En uppsjö av bilder och diagram kommer att kompletteras
+   2. Uppdateringar som skall göras till innehållet (Chat GPT:s feedback)
 
   Kapitel 1. Förbättringspotential:
 Några avsnitt är något repetitiva i uttryck, t.ex. beskrivningar av CPU- eller GPU-egenskaper som överlappar (t.ex. cache nämns flera gånger).
