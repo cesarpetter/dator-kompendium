@@ -8,7 +8,7 @@ Dessa kommer vara en separat bok.
 
 Allt material är ursprungligen mina antecningar och kompendier som jag har delat ut till eleverna. Allt detta matades in i Chat GPT och detta är resultatet
 
-👉 [https://github.com/cesarpetter/dator-kompendium/blob/main/docs/datorteknik/datorteknik-draft-med%20kommentarer.pdf](https://github.com/cesarpetter/dator-kompendium/blob/main/docs/datorteknik/datorteknik-0.9.pdf)
+👉 https://github.com/cesarpetter/dator-kompendium/blob/main/docs/datorteknik/datorteknik-0.9.pdf
 
 # Feedback 
 Tills dess att jag har löst en snygg markup m.m. så är du välkommen att skicka feedback till: robin.m.brack@gmail.com
