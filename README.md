@@ -45,7 +45,7 @@ Bildtexter
    
 # Avklarat
 <s>
-1. En uppsjö av bilder och diagram kommer att kompletteras
+1. En uppsjö av bilder och diagram kommer att kompletteras <br>
    2. Uppdateringar som skall göras till innehållet (Chat GPT:s feedback)
 
   Kapitel 1. Förbättringspotential:
