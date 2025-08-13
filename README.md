@@ -40,7 +40,7 @@ Vill du spara QR-koden till mobilen eller skriva ut den?
 _Tack för ditt stöd!_
 
 # To-do list (Uppdaterad 250814)
-Bildreferenslista
+Bildreferenslista <br>
 Bildtexter
    
 # Avklarat
