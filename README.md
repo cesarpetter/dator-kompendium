@@ -10,7 +10,7 @@ Allt material är ursprungligen mina antecningar och kompendier som jag har dela
 
 👉 https://github.com/cesarpetter/dator-kompendium/blob/main/docs/datorteknik/datorteknik-0.9.pdf
 
-👉 https://github.com/cesarpetter/dator-kompendium/blob/main/docs/natverk/network 1.0-.pdf
+👉 [https://github.com/cesarpetter/dator-kompendium/blob/main/docs/natverk/network 1.0-.pdf]
 
 # Feedback 
 Tills dess att jag har löst en snygg markup m.m. så är du välkommen att skicka feedback till: robin.m.brack@gmail.com
