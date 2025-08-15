@@ -4,9 +4,9 @@ Kursmaterial för IT-elever på gymnasiet – skrivet av Robin Bräck.
 
 Syftet med detta material är inte att täcka kursen fullständigt utan som ett teoretiskt komplement. Mycket av undervisningen inom it bör utföras genom learning by doing
 varvid det kommer att kompletteras med ett antal olika labbar och övningar per kapitel.
-Dessa kommer vara en separat bok.
+Dessa kommer vara en separat bok, som vi får se om även den letar sig hit.
 
-Allt material är ursprungligen mina antecningar och kompendier som jag har delat ut till eleverna. Allt detta matades in i Chat GPT och detta är resultatet
+Allt material är ursprungligen mina anteckningar och kompendier som jag har delat ut till eleverna under mina 7 år som it-lärare. Allt detta matades in i Chat GPT, bearbetats, anpassats och detta är resultatet
 
 👉 https://github.com/cesarpetter/dator-kompendium/blob/main/docs/datorteknik/datorteknik-0.9.pdf
 
