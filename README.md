@@ -1,4 +1,4 @@
-# Dator-kompendium
+# Dator-kompendier
 
 Kursmaterial för IT-elever på gymnasiet – skrivet av Robin Bräck.
 
@@ -9,6 +9,8 @@ Dessa kommer vara en separat bok.
 Allt material är ursprungligen mina antecningar och kompendier som jag har delat ut till eleverna. Allt detta matades in i Chat GPT och detta är resultatet
 
 👉 https://github.com/cesarpetter/dator-kompendium/blob/main/docs/datorteknik/datorteknik-0.9.pdf
+
+👉 https://github.com/cesarpetter/dator-kompendium/blob/main/docs/natverk/network 1.0-.pdf
 
 # Feedback 
 Tills dess att jag har löst en snygg markup m.m. så är du välkommen att skicka feedback till: robin.m.brack@gmail.com
@@ -39,7 +41,12 @@ Vill du spara QR-koden till mobilen eller skriva ut den?
 
 _Tack för ditt stöd!_
 
-# To-do list (Uppdaterad 250814)
+# To-do list (Uppdaterad 250816)
+<b>Datorteknik:</b><br>
+Bildreferenslista <br>
+Bildtexter <br> <br>
+<b>Nätverk:</b><br>
+Ett fåtal bilder<br>
 Bildreferenslista <br>
 Bildtexter
    
