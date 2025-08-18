@@ -22,8 +22,7 @@ Skicka gärna synpunkter till **robin.m.brack@gmail.com**.
 ## Stöd arbetet ☕
 Vill du stötta arbetet? Swisha gärna genom att scanna QR-koden nedan.  
 [Hämta QR-bilden](swish.png)
-
-![Swish QR-kod](swish.png)
+<img src="https://user-images.githubusercontent.com/swish.png" width="200" />
 
 ## Licens
 Detta material är licensierat under **Creative Commons BY-NC-SA 4.0**.  
