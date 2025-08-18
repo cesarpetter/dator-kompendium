@@ -1,0 +1,10 @@
+title: "Dator-kompendier"
+remote_theme: just-the-docs/just-the-docs
+search_enabled: true
+
+url: "https://cesarpetter.github.io"
+baseurl: "/dator-kompendium"
+
+aux_links:
+  "Datorteknik (PDF)": "{{ site.baseurl }}/assets/pdf/datorteknik-1.1.pdf"
+  "Nätverk (PDF)": "{{ site.baseurl }}/assets/pdf/network-1.1.pdf"
