@@ -28,3 +28,23 @@ Vill du stötta arbetet? Swisha gärna genom att scanna QR-koden nedan.
 ## Licens
 Detta material är licensierat under **Creative Commons BY-NC-SA 4.0**.  
 Du får dela och anpassa materialet, men måste ange källa, inte använda det kommersiellt, och dela vidare med samma licens.
+
+## Nytt & på gång
+- 📝 [Changelog]({{ site.baseurl }}{% link CHANGELOG.md %})
+- ✅ [TODO]({{ site.baseurl }}{% link TODO.md %})
+
+<details>
+<summary><strong>Visa Changelog</strong></summary>
+
+{% capture clog %}{% include_relative CHANGELOG.md %}{% endcapture %}
+{{ clog | markdownify }}
+
+</details>
+
+<details>
+<summary><strong>Visa TODO</strong></summary>
+
+{% capture todo %}{% include_relative TODO.md %}{% endcapture %}
+{{ todo | markdownify }}
+
+</details>
