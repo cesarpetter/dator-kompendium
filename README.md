@@ -5,9 +5,8 @@
 Kursmaterial för IT-elever på gymnasiet – skrivet av Robin Bräck.
 
 **Läs online:**
-- ▶️ **Startsida:** https://cesarpetter.github.io/dator-kompendium/
-- 📘 **Datorteknik (webb):** https://cesarpetter.github.io/dator-kompendium/docs/datorteknik/index.md
-- 🌐 **Nätverk (webb):** https://cesarpetter.github.io/dator-kompendium/natverk/
+- 📘 **Datorteknik (webb):** https://cesarpetter.github.io/dator-kompendium/docs/datorteknik/
+- 🌐 **Nätverk (webb):**     https://cesarpetter.github.io/dator-kompendium/docs/natverk/
 
 **Ladda ner som PDF:**
 - ⤓ **Datorteknik (PDF):** https://github.com/cesarpetter/dator-kompendium/blob/main/docs/assets/pdf/datorteknik.pdf
