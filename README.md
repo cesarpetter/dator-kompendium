@@ -12,6 +12,9 @@ Kursmaterial för IT-elever på gymnasiet – skrivet av Robin Bräck.
 - ⤓ **Nätverk (PDF):** https://github.com/cesarpetter/dator-kompendium/blob/main/docs/assets/pdf/network.pdf
 
 ---
+## Nytt & på gång
+- 📝 [Changelog] https://github.com/cesarpetter/dator-kompendium/blob/main/docs/changelog.md
+- ✅ [TODO] https://github.com/cesarpetter/dator-kompendium/blob/main/docs/todo.md
 
 ## Om materialet
 Syftet är inte att täcka kurserna fullständigt, utan att ge ett teoretiskt komplement till praktiska labbar och övningar. Materialet bygger på mina egna anteckningar från 7 år som IT-lärare och har bearbetats till en sammanhållen bok.
@@ -28,23 +31,3 @@ Vill du stötta arbetet? Swisha gärna genom att scanna QR-koden nedan.
 ## Licens
 Detta material är licensierat under **Creative Commons BY-NC-SA 4.0**.  
 Du får dela och anpassa materialet, men måste ange källa, inte använda det kommersiellt, och dela vidare med samma licens.
-
-## Nytt & på gång
-- 📝 [Changelog]({{ site.baseurl }}{% link changelog.md %})
-- ✅ [TODO]({{ site.baseurl }}{% link todo.md %})
-
-<details>
-<summary><strong>Visa Changelog</strong></summary>
-
-{% capture clog %}{% include_relative changelog.md %}{% endcapture %}
-{{ clog | markdownify }}
-
-</details>
-
-<details>
-<summary><strong>Visa TODO</strong></summary>
-
-{% capture todo %}{% include_relative todo.md %}{% endcapture %}
-{{ todo | markdownify }}
-
-</details>
