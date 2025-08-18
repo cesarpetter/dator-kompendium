@@ -3,6 +3,10 @@
 > Format: YYYY-MM-DD — kort rubrik  
 > Viktigaste ändringar i punktform.
 
+## 2025-08-19 — Adderat kapitel
+- I Datorteknik finns nu kapitlet 9.7 Vanliga angrepp mot klienter och system
+- I Nätverksteknik finns nu kapitlet 2.5 Vanliga nätverksangrepp och hur vi försvarar oss
+
 ## 2025-08-18 — Struktur för GitHub Pages
 - Flytt till **Just the Docs** under `docs/`.
 - Grundsidor: `docs/index.md`, `docs/datorteknik/index.md`, `docs/natverk/index.md`.
