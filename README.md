@@ -8,14 +8,14 @@ Dessa kommer vara en separat bok, som vi får se om även den letar sig hit.
 
 Allt material är ursprungligen mina anteckningar och kompendier som jag har delat ut till eleverna under mina 7 år som it-lärare. Allt detta matades in i Chat GPT, bearbetats, anpassats och detta är resultatet
 
-👉 https://github.com/cesarpetter/dator-kompendium/blob/main/docs/datorteknik/datorteknik1.1.pdf
+👉 https://github.com/cesarpetter/dator-kompendium/blob/main/docs/assets/pdf/datorteknik.pdf
 **Uppdaterad 20250817**
 * Flera rubrikers innehåll uppdaterat
 * Kapitel som bestod av punktlistor utbytt till flytande text (ex. USB)
 * Utförligare om GPU - något som intresserar elever
 * Appendix med ca 300 begrepp/förklaringar tillagt
 
-👉 https://github.com/cesarpetter/dator-kompendium/blob/main/docs/natverk/network-1.1-.pdf
+👉 https://github.com/cesarpetter/dator-kompendium/blob/main/docs/assets/pdf/network.pdf
 **Uppdaterad 20250817**
 * Uppdaterad framsida
 * Uppdaterad licensinformation
