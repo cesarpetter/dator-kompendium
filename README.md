@@ -30,13 +30,13 @@ Detta material är licensierat under **Creative Commons BY-NC-SA 4.0**.
 Du får dela och anpassa materialet, men måste ange källa, inte använda det kommersiellt, och dela vidare med samma licens.
 
 ## Nytt & på gång
-- 📝 [Changelog]({{ site.baseurl }}{% link changelog.md %})
-- ✅ [TODO]({{ site.baseurl }}{% link todo.md %})
+- 📝 [Changelog]https://github.com/cesarpetter/dator-kompendium/blob/main/changelog.md
+- ✅ [TODO] https://github.com/cesarpetter/dator-kompendium/blob/main/changelog.md
 
 <details>
 <summary><strong>Visa Changelog</strong></summary>
 
-{% capture clog %}{% include_relative changelog.md %}{% endcapture %}
+{% capture clog %}{% include_relative https://github.com/cesarpetter/dator-kompendium/blob/main/changelog.md %}{% endcapture %}
 {{ clog | markdownify }}
 
 </details>
@@ -44,7 +44,7 @@ Du får dela och anpassa materialet, men måste ange källa, inte använda det k
 <details>
 <summary><strong>Visa TODO</strong></summary>
 
-{% capture todo %}{% include_relative todo.md %}{% endcapture %}
+{% capture todo %}{% include_relative https://github.com/cesarpetter/dator-kompendium/blob/main/changelog.md %}{% endcapture %}
 {{ todo | markdownify }}
 
 </details>
