@@ -1,5 +1,4 @@
-# Datorteknik – Avsnitt (nivå 2)
-
+# Datorteknik
 - [1.1 Moderkortet](1.01-moderkortet.md)
 - [1.2 Processorn (CPU)](1.02-processorn-cpu.md)
 - [1.3 RAM (Arbetsminne)](1.03-ram-arbetsminne.md)
