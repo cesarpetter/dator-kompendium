@@ -3,6 +3,10 @@
 > Format: YYYY-MM-DD — kort rubrik  
 > Viktigaste ändringar i punktform.
 
+## 2025-11-17 — Nya kapitel
+
+- Nätverk Uppdaterat appendix II med RIP och OSPF
+
 ## 2025-08-19 — Nya kapitel
 
 - Datorteknik 9.7 Vanliga angrepp mot klienter och system
