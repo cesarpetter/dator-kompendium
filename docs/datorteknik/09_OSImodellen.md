@@ -1,0 +1,7 @@
+# 9 OSI-modellen
+
+När du skickar ett meddelande i Teams, spelar ett spel online eller surfar på en hemsida, så händer det faktiskt hundratals saker i bakgrunden. Men hur håller vi ordning på allt detta?
+
+OSI-modellen är som ett kartläggningssystem – den delar upp kommunikationen i sju tydliga lager, där varje lager har en specifik roll. Från den fysiska koppartråden längst ner till den app du ser på skärmen högst upp.
+
+Syftet är inte att varje lager alltid existerar exakt så här i verkligheten – utan att modellen ska hjälpa oss att förstå, felsöka och designa nätverk på ett strukturerat sätt.

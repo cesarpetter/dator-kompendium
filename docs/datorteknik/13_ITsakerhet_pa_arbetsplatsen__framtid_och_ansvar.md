@@ -1,0 +1,5 @@
+# 13 IT-säkerhet på arbetsplatsen – framtid och ansvar
+
+IT-säkerhet är inte längre en fråga för bara IT-avdelningen. I dagens digitala samhälle är varje individ – oavsett yrkesroll – en del av försvarslinjen. Från att klicka på länkar i e-post till att hantera känsliga kunduppgifter på ett korrekt sätt: var och en har ett ansvar.
+
+I det här sista kapitlet ska vi sätta all kunskap i kontext. Hur omsätter man säkerhetsprinciper i vardagen? Vad betyder det att vara en ansvarsfull användare – och en framtida IT-tekniker? Och vad väntar runt hörnet när det gäller hot, teknik och lagstiftning?

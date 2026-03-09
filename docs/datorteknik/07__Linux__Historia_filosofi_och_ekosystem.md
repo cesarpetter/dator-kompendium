@@ -1,0 +1,3 @@
+# 7. Linux – Historia, filosofi och ekosystem
+
+Om Windows är den polerade kontorsbyggnaden där allt är förbestämt, är Linux snarare den kraftfulla verktygslådan och de ritningar som låter dig bygga precis vad du vill. Linux är idag fundamentet för nästan all modern teknik, men för att förstå hur det blev så måste vi titta på vad Linux egentligen är – och vad det inte är.

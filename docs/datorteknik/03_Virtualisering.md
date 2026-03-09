@@ -1,0 +1,17 @@
+# 3 Virtualisering
+
+Virtualisering betyder att man skapar en virtuell version av något som annars är fysiskt. Oftast handlar det om att köra flera virtuella datorer (VM – Virtual Machines) på en och samma fysiska server. Varje VM fungerar som en egen dator med operativsystem och program, men delar resurser som CPU, minne och disk med andra VM på samma hårdvara.
+
+Virtualisering styrs av ett lager som kallas hypervisor. Hypervisorn gör det möjligt att starta, stoppa och hantera virtuella maskiner på ett kontrollerat sätt.
+
+Virtualisering är en central teknik inom IT-drift och utveckling. Några vanliga anledningar till att använda virtualisering är:
+
+Bättre resursutnyttjande: Flera VM på en fysisk maskin gör att hårdvaran används mer effektivt.
+
+Kostnadsbesparing: Färre fysiska servrar ger lägre kostnader för inköp, el och kyla.
+
+Flexibilitet: Lätt att skapa, ändra eller ta bort VM efter behov.
+
+Isolering: Problem i en VM påverkar inte andra VM.
+
+Test och utveckling: Möjlighet att snabbt skapa testmiljöer.
