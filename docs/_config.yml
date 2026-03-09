@@ -5,10 +5,9 @@ search_enabled: true
 url: "https://cesarpetter.github.io"
 baseurl: "/dator-kompendium"
 
-# Länkar som visas i sidhuvudet/menyn på hemsidan
 aux_links:
-  "Datorteknik (PDF)": "{{ site.baseurl }}/assets/pdf/datorteknik.pdf"
-  "Nätverk (PDF)": "{{ site.baseurl }}/assets/pdf/network.pdf"
+  "Datorteknik (PDF)": "/dator-kompendium/assets/pdf/datorteknik.pdf"
+  "Nätverk (PDF)": "/dator-kompendium/assets/pdf/network.pdf"
 
 # Inställningar för att snygga till menyn (valfritt men rekommenderat)
 heading_anchors: true
