@@ -1,11 +1,13 @@
 ---
-title: Start
+layout: default
+title: Hem
 nav_order: 1
 ---
 
-# Dator-kompendier
+# Welcome to Dator-kompendier (computer compendiums)
 
-Välj bok:
+This is the startingpage for Robin Bräcks materials
 
-- [Datorteknik]({{ site.baseurl }}/datorteknik/)
-- [Nätverk]({{ site.baseurl }}/network/)
+## Go to books:
+* [Datorteknik](datorteknik/index.md)
+* [Nätverksteknik](network/index.md)
