@@ -1,0 +1,329 @@
+# Appendix II - CLI-REFERENS
+
+### Kodsnipplets att använda
+
+### Sammanfattning
+
+När vi jobbar med nätverkskonfiguration handlar mycket av arbetet om planering, kontroll och felsökning. Är det något som inte fungerar, kontrollera paketets väg, från början till slut för att se var det har blivit fel.
+
+Ta ALLTID för vana att placera ut saker organiserat och döp allting med exempelvis ip-adresser eller korrekta hostnames. Även det kommer göra felsökningen mycket enklare.
+
+Många av de kommandon som används skrivs sällan ut som hela kommandon, då du kan använda förkortningar istället. Ofta när du söker hjälp på google m.m. så kommer förkortningarna upp. Exempel på detta är när du ansluter till en port eller skall sätta på en port. I de fallen skrivs bara förkortningar till kommandot ut
+
+Den första fråga du får när du ansluter till enheten är: Would you like to enter the initial configuration dialog? [yes/no], där svarar vi ALLTID no.
+
+Att använda sig av ett frågetecken, ?, listar alla tänkbara kommandon som finns på nivån eller som fortsättning på kommandot du matat in. Det är bra att använda sig av om du är osäker.
+
+För att avbryta pågående kommando trycker du Ctrl+Shift+6
+
+Det sista tipset är att alltid ansluta en dator till enheten som du skall konfigurera. Detta för att minimera risken att du råkar göra ändringar i portinställningarna på enheten.
+
+Lycka till
+
+### Grundläggande CLI-kommandon
+
+#### enable
+
+Används för att logga in i enheten som administratör. Om du har konfigurerat användarnamn och lösenord får du fylla i det efteråt.
+
+syntax:
+
+enableExempel:
+
+Router>enable
+
+#### reload
+
+Används för att starta om en enhet. Tänk på att alla kommandon du har lagt in kommer att nollställas, om du inte har sparat dem.
+
+syntax:
+
+reloadExempel:
+
+Router>reload
+
+#### show
+
+Är ett “grundkommando” som används för att visa inställningar och/eller anslutna enheter till både switch och router.
+
+syntax:
+
+Exempel:
+
+Router>show [vad du vill visa]Exempel:
+
+Router>show interfaces statusExempel:
+
+Router>show running-config
+
+#### exit
+
+Används för att backa ur den nivå du befinner dig i. Om du har konfigurerat en port, och vill logga ut från det läget är detta kommandot du använder dig av
+
+syntax:
+
+exitExempel:
+
+Router (config-if)# exit
+
+#### configure terminal
+
+Ändrar enhetens konfiguration, exempelvis portar m.m. Här behöver du vara för att göra alla inställningar.
+
+syntax:
+
+configure terminal eller conf tExempel:
+
+router#configure terminal eller Router#conf t
+
+#### hostname
+
+Vi arbetar med många enheter i nätverket och något som är viktigt är att ha koll på vad de heter. Generellt döps routrar till R, och nummer i ordningen, till exempel: R1. Switchar döps på samma sätt och heter SW istället
+
+syntax:
+
+hostname [namn]Exempel:
+
+Router (config)#hostname R1
+
+#### interface
+
+Används för att ansluta till en port och göra inställningar, brukar också skrivas int. Här är det vanligt att använda förkortningar för porten istället för portens hela namn.
+
+syntax:
+
+interface [portnamn]Exempel:
+
+Router (config)#interface GigabitEthernet0/0eller:Router (config)#int g0/0
+
+#### shutdown
+
+Används för att stänga av en port. Skrivs no framför blir det omvänt, dvs no shutdown blir: sätt på porten
+
+syntax:
+
+shutdown eller  shExempel för att stänga av:
+
+Router (config-if)#shutdowneller:Router (config-if)# sh
+
+Exempel för att sätta på:
+
+Router (config-if)#no shutdowneller:Router (config-if)# no sh
+
+#### ip address
+
+Används för att tilldela en IP-adress till porten. Vanligt att förkorta
+
+syntax:
+
+ip address [ip-adress subnätmask]ellerip ad [ip-adress subnätmask]Exempel:Router (config-if)#ip address 192.168.0.1 255.255.255.0
+
+eller:Router (config-if)#ip ad 192.168.0.1 255.255.255.0
+
+#### ip route
+
+Används för att stänga skapa en statisk route, det vill säga hur trafiken går från en routers nätverk till en annan routers nätverk. Tänk på att du oftast måste göra en statisk route åt båda håll så att datorerna i det andra nätverket kan svara också.
+
+syntax:
+
+ip route [nätverksadress subnätmask next_hop]Exempel:
+
+Router (config)#ip route 192.168.0.0 255.255.255.0 10.0.0.1
+
+#### dhcp
+
+Används för att skapa en dhcp-utdelning av ip-adresser. Den skapas i flera steg. Det första du anger är poolens namn. En pool är alla ip-adresser i ett subnät. Det andra du anger är nät-id för subnätet samt nätmask. Tredje saken är vilken gateway som nätverket skall ha. Avslutningsvis kan du (men är inget krav), lägga in DNS-serverns adress
+
+syntax:
+
+Router (config-if)#ip dhcp pool [poolnamn]
+
+Router(dhcp-config)#network [nät-id] [subnätmask]
+
+Router(dhcp-config)#default-router [gateway-ip]Router(dhcp-config)#dns-server [dns ip]
+
+Exempel:
+
+Router (config-if)#ip dhcp pool polen
+
+Router(dhcp-config)#network 192.168.0.0 255.255.255.0
+
+Router(dhcp-config)#default-router 192.168.1.1
+
+Router(dhcp-config)#dns-server 8.8.8.8
+
+Precis som med ip-adresser, i ett VLAN, på en multilayerswitch, går det även att upprätta dhcp på en L3 switch. Kommandona är de samma, men du måste vara i VLAN-config-läge (se mer under rubriken VLAN)
+
+#### dhcp-avancerat - Ranges
+
+Om du använder dig av DHCP kan du vilja ta bort vissa adresser eller ranges
+
+syntax:
+
+Router(dhcp-config)# ip dhcp excluded-address [start-IP] [slut-IP]
+
+Exempel:
+
+Router(dhcp-config)# ip dhcp excluded-address 192.168.0.2 192.168.0.9
+
+#### dhcp-avancerat - MAC-reservation
+
+Om du använder dig av DHCP kan du vilja låsa en specifik mac-adress mot en viss ip
+
+syntax:
+
+Router(dhcp-config)# host [IP-adress] [subnetmask]Router(dhcp-config)# client-identifier [MAC-adress]
+
+Exempel:
+
+Router(dhcp-config)# host 192.168.0.1 255.255.255.0Router(dhcp-config)# client-identifier 0100.1A2B.3C4D.5E6F
+
+### DYNAMISKA ROUTINPROTOKOLL
+
+#### Rip v2
+
+router ripv 2network [IP för anslutning]network [IP för LAN som delas ut]no auto-summary
+
+Exempel:
+
+Router(config)# router ripRouter(config-router)# v 2Router(config-router)# network 10.0.0.1Router(config-router)# network 192.168.0.0Router(config-router)# no auto-summary
+
+#### OSPF
+
+router ospf [process-id]network [IP för anslutning] [Wildcardmask] area [nummer]network [IP för anslutning] [Wildcardmask] area [nummer]
+
+Exempel:
+
+Router(config)# router ospf 1Router(config-router)# network 192.168.0.0 0.0.0.255 area 0Router(config-router)# network 200.0.0.0 0.0.0.3 area 0
+
+Du kan styra cost för länken. Detta görs exempelvis i anslutande switch
+
+interface [Port]ip ospf cost [Värde]
+
+Exempel:
+
+Switch(config)# interface g0/0Switch(config-if)# ip ospf cost 1000
+
+### VLAN
+
+Skapar ett virtuellt nätverk på en port, så kallade sub-portar. VLAN standard är att de döps till jämnt 10-tal
+
+syntax:
+
+int [portnamn.vlan-id]encapsulation dot1q [vlanid]
+
+Exempel:
+
+Router (config)#int g0/0.10 Router(config-subif)# encap dot1q 10
+
+Om du utför detta på en multilayerswitch behöver du inte skapa vare sig subport eller encapsulation. Där räcker det med att du skapar VLAN och tilldelar portar
+
+syntax:
+
+[vlan-id]name [vlan-name]
+
+Exempel:
+
+Switch(config)#vlan 10 Switch(config-vlan)# name vlan10
+
+Därefter måste du fortfarande tilldela portar (enligt nedan), ip adresser, dhcp m.m.
+
+#### switchport
+
+Används på switch för att hantera VLAN. Porten ställs antingen som access eller trunk. En trunk-port har hand om all trafik från samtliga VLAN och är ofta den port som leder tillbaka till routern. Access är den port som enheter ansluter till.
+
+syntax:
+
+switchport mode [typ av anslutning]Exempel trunk:
+
+Switch(config-if)#switchport mode trunk Exempel access:
+
+Switch(config-if)#switchport mode access Switch(config-if)#switchport access vlan 10
+
+Skall du göra flera portar samtidigt kan du använda kommandot int range [startport-slutport]
+
+#### ip routing
+
+Vill du låta din multilayerswitch hantera trafiken måste du aktivera intern routing i den
+
+syntax:
+
+ip routingExempel:
+
+Switch(config)#ip routing
+
+### Kommandon i Windows
+
+ipconfig
+
+Kommando för att se dina nätverksanslutningar i datorn. Den visar alla olika, ethernet, wlan, bluetooth m.m. Alla med en enkel översikt över ip adress m.m.
+
+ipconfig /all
+
+Kommando för att se dina nätverksanslutningar i datorn men, all information. Den visar alla olika, ethernet, wlan, bluetooth m.m. Alla med en enkel översikt över ip adress m.m.
+
+ipconfig /release
+
+Kommando för att släppa den ip-adress du har blivit tilldelad
+
+ipconfig /renew
+
+Kommando för att begära ny ip-adress
+
+ipconfig /displaydns
+
+Visar innehållet i DNS-cache
+
+ipconfig /flushdns
+
+Töm innehållet i DNS-cache
+
+nslookup
+
+Ger information om domännamn och ip-adresser
+
+Syntax:
+
+nslookup google.com
+
+ping
+
+Skickar ett ICMP-paket till en specifik ip adress, i syfte att kontrollera anslutningen
+
+Syntax:
+
+ping 192.168.0.1
+
+tracert
+
+Visar hur nätverkstrafiken routras till en viss ip. Du kan även (om du är ansluten till en DNS) skriva in en URL (webbadress)
+
+Syntax:
+
+tracert 192.168.0.1
+
+### Kommandon i Linux (Debian)
+
+ip -brief addrKommando för att snabbt se aktiva nätverksgränssnitt och deras IP-adresser (kompakt översikt).
+
+ip addr showKommando för att se dina nätverksgränssnitt i detalj: IPv4/IPv6-adresser, prefix, flags m.m.
+
+ip link showVisar länkstatus, MAC-adresser och MTU per interface (lager 2-vy).
+
+ip route showVisar routningstabellen (standardgateway, statiska rutter m.m.).Syntax:ip route show ip route get 192.168.0.1
+
+dhclient -rKommando för att släppa (release) din DHCP-lease på ett interface.Syntax:sudo dhclient -r -v eth0
+
+dhclientKommando för att begära en ny DHCP-lease (renew) på ett interface.Syntax:sudo dhclient -v eth0
+
+resolvectl statusVisar DNS-resolvrar och cache-statistik om systemd-resolved används.Syntax:resolvectl statusresolvectl query google.com
+
+resolvectl flush-cachesTömmer DNS-cache (gäller systemd-resolved; annars töm respektive cache-tjänst).
+
+digGer detaljerad information om domännamn och IP-adresser (ersätter ofta nslookup).Syntax:dig +short google.comdig -x 192.168.0.1 +short
+
+pingSkickar ICMP-ekon till en adress för att testa anslutning och rundtid.
+
+tracepathVisar vägen (hop för hop) som paket tar till en destination, utan root-krav.
+
+mtrKombinerar ping och traceroute i realtid (fördröjning/förluster per hop). Kan behöva installeras (sudo apt install mtr).Syntax:mtr google.commtr -6 2607:f8b0:4003:c00::6a

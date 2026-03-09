@@ -8,4 +8,4 @@ nav_order: 1
 Välj bok:
 
 - [Datorteknik]({{ site.baseurl }}/datorteknik/)
-- [Nätverk]({{ site.baseurl }}/natverk/)
+- [Nätverk]({{ site.baseurl }}/network/)

@@ -1,12 +1,16 @@
-# TODO – Dator-kompendier
-_Senast uppdaterad: 2025-08-18_
+# TODO – Computer Compendiums
+*Last updated: 2026-03-09*
 
-## Gemensamt
-- [ ] **Bildreferenslista** (alla bilder, källa/URL, licens) för båda böckerna.
-- [ ] **Bildtexter** under varje bild.
-- [ ] Skapa en tydlig **“Downloads”**-sektion på sajten
+## General Tasks
+- [ ] **Image Reference List** (all images, source/URL, license) for both books.
+- [ ] **Image Captions** under every image in the Markdown files.
+- [ ] Create a clear **"Downloads"** section on the site/documentation.
 
-## Datorteknik (bok)
+## Computer Technology (book)
+- [ ] *Pending routine updates*
 
-## Nätverk (bok)
+## Networking (book)
+- [ ] *Pending routine updates*
 
+---
+> This list is updated as the workflow and routines are established.

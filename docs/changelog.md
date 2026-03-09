@@ -1,32 +1,38 @@
-# Changelog – Dator-kompendier
+# Changelog – Computer Compendiums
 
-> Format: YYYY-MM-DD — kort rubrik  
-> Viktigaste ändringar i punktform.
+> Format: YYYY-MM-DD — Short header
+> Key changes in bullet points.
 
-## 2025-11-17 — Nya kapitel
+## 2026-03-09 — Update
 
-- Nätverk Uppdaterat appendix II med RIP och OSPF
+- 2026-1 version of the **Computer Technology** book (Markdown migration complete).
+- **Networking**: Updated chapters and initiated spring content update.
+- Migration to a new automated Markdown structure for better Git integration.
 
-## 2025-08-19 — Nya kapitel
+## 2025-11-17 — New Chapters
 
-- Datorteknik 9.7 Vanliga angrepp mot klienter och system
-- Nätverk 2.5 Vanliga nätverksangrepp och hur vi försvarar oss
+- **Networking**: Updated Appendix II with RIP and OSPF.
 
-## 2025-08-18 — Struktur för GitHub Pages
-- Flytt till **Just the Docs** under `docs/`.
-- Grundsidor: `docs/index.md`, `docs/datorteknik/index.md`, `docs/natverk/index.md`.
-- PDF-länkar förberedda i `docs/_config.yml` under `aux_links`.
-- Rensning av felskapade filer och kommentarrester.
+## 2025-08-19 — Content Expansion
 
-## 2025-08-17 — Datorteknik v1.1
-- Flera rubriker uppdaterade och utökade.
-- Kapitlen som var punktlistor skrivna till **flytande text** (t.ex. USB).
-- **GPU-avsnittet** utökat med mer relevant nutidsfokus.
-- **Appendix:** ca **300 begrepp/förklaringar** tillagt.
+- **Computer Technology**: 9.7 Common attacks against clients and systems.
+- **Networking**: 2.5 Common network attacks and defense strategies.
 
-## 2025-08-17 — Nätverk v1.1
-- **Ny framsida**.
-- **Licensinformationen** uppdaterad och förtydligad.
+## 2025-08-18 — GitHub Pages Structure
+- Moved to **Just the Docs** theme under the `docs/` directory.
+- Created base pages: `docs/index.md`, `docs/datorteknik/index.md`, `docs/network/index.md`.
+- PDF links prepared in `docs/_config.yml` under `aux_links`.
+- Cleanup of erroneously created files and comment residue.
 
-## 2025-XX-YY — v1.0 (första publik version)
-- Första publika versionen av båda böckerna.
+## 2025-08-17 — Computer Technology v1.1
+- Multiple headings updated and expanded.
+- Rewrote bullet-point chapters into **narrative text** (e.g., USB section).
+- **GPU section** expanded with a stronger focus on modern hardware.
+- **Appendix**: Approximately **300 terms and definitions** added.
+
+## 2025-08-17 — Networking v1.1
+- **New cover design**.
+- **License information** updated and clarified.
+
+## 2025-XX-YY — v1.0 (First Public Release)
+- Initial public release of both books.
