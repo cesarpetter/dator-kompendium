@@ -117,3 +117,41 @@ Alla dessa metoder är olika varianter av informationsinsamling – och måste f
 Inom cybersäkerhet används ofta begreppen red team och blue team för att öva både attacker och försvar. Ett red team agerar som angripare och försöker bryta sig in i ett system med verkliga metoder – men inom kontrollerade ramar. Ett blue team är försvararna som ska upptäcka, stoppa och dokumentera angreppen i realtid.
 
 Syftet är att förbättra säkerheten genom realistiska scenarier där båda sidor får träna sina färdigheter. Ofta används även begreppet purple team, där red och blue team samarbetar för att maximera lärande, identifiera luckor och stärka organisationens skyddsförmåga.
+
+### Kontrollfrågor
+
+Vad är skillnaden mellan en vit hatt och en svart hatt?
+
+Vad används Kali Linux till?
+
+Hur fungerar ett brute force-angrepp?
+
+Vad är en drive-by-attack?
+
+Hur fungerar pivoting?
+
+Vad gör Metasploit?
+
+Vad är en zero-day-sårbarhet?
+
+Vad innebär spoofing?
+
+Ge exempel på hur en hacker kan använda ett keylogger.
+
+Vad är syftet med bug bounty-program?
+
+### Fördjupningslänkar
+
+OWASP – Cyber Kill Chain Explainedhttps://owasp.org/www-community/attack-methods/Cyber_Kill_Chain
+
+Cloudflare – What is a Man-in-the-Middle Attack?https://www.cloudflare.com/learning/ddos/glossary/man-in-the-middle-attack/
+
+HackerOne – Bug Bounty Programshttps://www.hackerone.com/bug-bounty-programs
+
+Comparitech – What is Typosquatting?https://www.comparitech.com/blog/information-security/typosquatting/
+
+IBM – What is privilege escalation?https://www.ibm.com/topics/privilege-escalation
+
+### Egna anteckningar
+
+(Lämna plats för egna reflektioner och fördjupningar här.)
