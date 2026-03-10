@@ -20,8 +20,8 @@ Nu uppdaterad och migrerad till samma smidiga kapitelformat som datortekniken.
 - [Nätverksteknik (PDF)](docs/assets/pdf/network.pdf)
 
 ## Nytt & på gång
-- ✅ **Uppdatering 2026-03:** Både "Datorteknik" och "Nätverksteknik" har konverterats från ODT till Markdown-filer med flödande text och pedagogiska exempel.
-- 📝 [TODO-lista](docs/todo.md)
+- 📝 **Changelog:** [View changelog](docs/changelog.md)
+- ✅ **TODO:** [View progress](docs/todo.md)
 
 ## Om materialet
 Syftet är att ge ett teoretiskt komplement till praktiska labbar. Materialet bygger på mina år som IT-lärare och är skrivet för att vara lättillgängligt för gymnasieelever. Varje kapitel innehåller:
