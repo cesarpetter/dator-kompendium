@@ -1,10 +1,9 @@
 # TODO – Computer Compendiums
-*Last updated: 2026-03-09*
+*Last updated: 2026-03-12*
 
 ## General Tasks
-- [ ] **Image Reference List** (all images, source/URL, license) for both books.
-- [ ] **Image Captions** under every image in the Markdown files.
-- [ ] Create a clear **"Downloads"** section on the site/documentation.
+- [ ] **Images** Generate my own images
+- [X] Create a clear **"Downloads"** section on the site/documentation.
 
 ## Computer Technology (book)
 - [ ] *Pending routine updates*

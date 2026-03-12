@@ -3,6 +3,10 @@
 > Format: YYYY-MM-DD — Short header
 > Key changes in bullet points.
 
+## 2026-03-12 — Update
+
+**Computer Technology** Everything up to chapter 11 is rewritten and checked to add more depth
+
 ## 2026-03-10 — Update
 
 **Computer Technology** updated to chapter 8 witch has ben completely rewritten and now has a more advanced, and in depth approach
