@@ -68,9 +68,10 @@ This project is a theoretical companion to hands-on labs and exercises. The cont
 I’d love to hear your thoughts: **robin.m.brack@gmail.com**
 
 ## Support the project ☕
-If you want to support the work, you can send a tip via Swish by scanning the QR code below.  
+If you want to support the work, you can send a tip via Swish by scanning the QR code below. 
 ![Swish QR code](swish.png)
 
 ## License
-This material is licensed under **Creative Commons BY-NC-SA 4.0**.  
-You may share and adapt the material, but you must give attribution, you may not use it commercially, and you must distribute derivatives under the same license.
+© 2025 Robin Bräck. This work, including text and illustrations, is protected by copyright law. The illustrations in this book have been generated using artificial intelligence (AI) under the author's editorial supervision and constitute an integrated part of the collective work.
+
+The work is made available under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license. This means you are free to share and adapt the content as long as you provide appropriate credit, do not use the material for commercial purposes, and distribute any adaptations under the same license terms. The full license text is available at https://creativecommons.org/licenses/by-nc-sa/4.0/.

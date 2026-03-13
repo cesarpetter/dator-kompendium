@@ -4,7 +4,8 @@
 > Key changes in bullet points.
 
 ## 2026-03-13 — Update
-
+**Computer Technology** Updated Licensing Information
+**Networking** - Updated Licensing Information
 **Computer Technology** Added questions and formatted links ch 1-10
 **Computer Technology** - Fixed navigation
 **Networking** - Fixed navigation

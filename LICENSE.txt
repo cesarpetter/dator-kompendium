@@ -1,16 +1,5 @@
-Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+© 2025 Robin Bräck. This work, including text and illustrations, is protected by copyright law. The illustrations in this book have been generated using artificial intelligence (AI) under the author's editorial supervision and constitute an integrated part of the collective work.
 
-This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. 
-To view a copy of this license, visit:
-https://creativecommons.org/licenses/by-nc-sa/4.0/
+The work is made available under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license. This means you are free to share and adapt the content as long as you provide appropriate credit, do not use the material for commercial purposes, and distribute any adaptations under the same license terms. The full license text is available at https://creativecommons.org/licenses/by-nc-sa/4.0/.
 
-You are free to:
-- Share — copy and redistribute the material in any medium or format
-- Adapt — remix, transform, and build upon the material
-
-Under the following terms:
-- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
-- NonCommercial — You may not use the material for commercial purposes.
-- ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
-
-Author: Robin Bräck & ChatGPT (OpenAI) – 2025
+Author: Robin Bräck, ChatGPT (OpenAI), Gemini (Google) – 2025
