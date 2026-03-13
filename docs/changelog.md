@@ -3,6 +3,12 @@
 > Format: YYYY-MM-DD — Short header
 > Key changes in bullet points.
 
+## 2026-03-13 — Update
+
+**Computer Technology** Added questions and formatted links ch 1-10
+**Computer Technology** - Fixed navigation
+**Networking** - Fixed navigation
+
 ## 2026-03-12 — Update
 
 **Computer Technology** Everything up to chapter 11 is rewritten and checked to add more depth
