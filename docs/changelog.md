@@ -3,6 +3,9 @@
 > Format: YYYY-MM-DD — Short header
 > Key changes in bullet points.
 
+## 2026-03-16 — Update
+**Computer Technology** Book complete. Added 2 new chapters. Only formatting left
+
 ## 2026-03-13 — Update
 **Computer Technology** Updated Licensing Information
 **Networking** - Updated Licensing Information
