@@ -5,6 +5,7 @@
 
 ## 2026-03-16 — Update
 **Computer Technology** Book complete. PDF updated
+**Networking** - Chapter 1 updated
 
 ## 2026-03-13 — Update
 **Computer Technology** Updated Licensing Information
