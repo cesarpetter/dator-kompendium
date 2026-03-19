@@ -3,6 +3,9 @@
 > Format: YYYY-MM-DD — Short header
 > Key changes in bullet points.
 
+## 2026-03-19 — Update
+**Networking** - Chapter 1-2.1 updated
+
 ## 2026-03-16 — Update
 **Computer Technology** Book complete. PDF updated
 **Networking** - Chapter 1 updated
