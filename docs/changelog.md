@@ -4,7 +4,7 @@
 > Key changes in bullet points.
 
 ## 2026-03-22 — Update
-- **Networking** - Chapter 2.2 updated
+- **Networking** - Chapter 2 done. 2.3 expanded
 
 ## 2026-03-19 — Update
 - **Networking** - Chapter 1-2.1 updated
