@@ -4,6 +4,9 @@
 > Key changes in bullet points.
 
 ## 2026-03-23 — Update
+- **Networking** - Chapter 3.4 expanded. More depth and examples
+
+## 2026-03-23 — Update
 - **Networking** - Chapter 3 started. Chapter 3.1, 3.2 and 3.3 expanded
 
 ## 2026-03-22 — Update
