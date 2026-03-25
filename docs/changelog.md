@@ -3,7 +3,10 @@
 > Format: YYYY-MM-DD — Short header
 > Key changes in bullet points.
 
-## 2026-03-23 — Update
+## 2026-03-25 — Update
+- **Networking** - Chapter 3.5-3.6 expanded. More depth and examples
+
+## 2026-03-24 — Update
 - **Networking** - Chapter 3.4 expanded. More depth and examples
 
 ## 2026-03-23 — Update
