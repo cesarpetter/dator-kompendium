@@ -3,6 +3,9 @@
 > Format: YYYY-MM-DD — Short header
 > Key changes in bullet points.
 
+## 2026-03-29 — Update
+- **Datorteknik** - Added 11.3 MFA
+
 ## 2026-03-25 — Update
 - **Networking** - Chapter 3.7 expanded. Chapter 3 done
 
