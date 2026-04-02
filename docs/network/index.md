@@ -30,7 +30,7 @@ has_children: true
   * [3.6 Ubuntu Server och Linux i nätverk](03.06_Ubuntu_Server_och_Linux_i_natverk.md)
   * [3.7 MDM och klienthantering](03.07_MDM_och_klienthantering.md)
   * [4 Säkerhet och övervakning](04.00_Sakerhet_och_overvakning.md)
-  * [4.1 Nätverkssäkerhetens grunder](04.01_Natverkssakerhetens_grunder.md)
+  * [4.1 Vad är säkerhet](04.01_Vad_ar_sakerhet.md)
   * [4.2 Åtkomstkontroll och behörigheter](04.02_Atkomstkontroll_och_behorigheter.md)
   * [4.3 Övervakning och loggning](04.03_Overvakning_och_loggning.md)
   * [4.4 Incidenthantering och backup](04.04_Incidenthantering_och_backup.md)
