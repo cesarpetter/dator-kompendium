@@ -5,6 +5,7 @@
 
 ## 2026-04-02 — Update
 - **Networking** - Chapter 4 reworked, expanded
+- **Networking** - Chapter 5 started. Chapter 5.1 reworked
 
 ## 2026-03-29 — Update
 - **Datorteknik** - Added 11.3 MFA

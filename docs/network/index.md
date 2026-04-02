@@ -34,7 +34,7 @@ has_children: true
   * [4.2 Åtkomstkontroll och behörigheter](04.02_Atkomstkontroll_och_behorigheter.md)
   * [4.3 Övervakning och loggning](04.03_Overvakning_och_loggning.md)
   * [4.4 Incidenthantering och backup](04.04_Incidenthantering_och_backup.md)
-  * [5 Fördjupningsdel](05.00_Fordjupningsdel.md)
+  * [5 Fördjupning](05.00_Fordjupning.md)
   * [5.1 Virtualisering – plattformar och gemensamma mönster](05.01_Virtualisering__plattformar_och_gemensamma_monster.md)
   * [5.2 Fördjupning: Windows Server och GPO](05.02_Fordjupning_Windows_Server_och_GPO.md)
   * [5.3 Fördjupning: Linux-server och policy-styrning](05.03_Fordjupning_Linuxserver_och_policystyrning.md)
