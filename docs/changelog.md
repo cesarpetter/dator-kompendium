@@ -3,6 +3,9 @@
 > Format: YYYY-MM-DD — Short header
 > Key changes in bullet points.
 
+## 2026-04-13 — Update
+- **Networking** - Chapter 5 complete. Book complete. Only formatting left
+
 ## 2026-04-02 — Update
 - **Networking** - Chapter 4 reworked, expanded
 - **Networking** - Chapter 5 started. Chapter 5.1 reworked
