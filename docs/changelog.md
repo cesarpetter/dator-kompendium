@@ -4,6 +4,9 @@
 > Key changes in bullet points.
 
 ## 2026-04-13 — Update
+- **Networking** - Books are done... ...for now...
+
+## 2026-04-13 — Update
 - **Networking** - Chapter 5 complete. Book complete. Only formatting left
 
 ## 2026-04-02 — Update
