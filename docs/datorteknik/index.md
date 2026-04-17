@@ -75,6 +75,7 @@ has_children: true
   * [11 Introduktion till IT-säkerhet](11.00_Introduktion_till_ITsakerhet.md)
   * [11.1 Vad är IT-säkerhet?](11.01_Vad_ar_ITsakerhet.md)
   * [11.2 Grundläggande arkitekturprinciper](11.02_Grundlaggande_arkitekturprinciper.md)
+  * [11.3 Autentisering och auktorisering](11.03_Autentisering_och_auktorisering.md)
   * [11.4 Riskhantering – Sårbarhet, Hot och Risk](11.04_Riskhantering__Sarbarhet_Hot_och_Risk.md)
   * [11.5 IT-säkerhet ur ett verksamhetsperspektiv](11.05_ITsakerhet_ur_ett_verksamhetsperspektiv.md)
   * [11.6 Vanliga angrepp mot klienter och system](11.06_Vanliga_angrepp_mot_klienter_och_system.md)
