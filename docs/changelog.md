@@ -3,6 +3,12 @@
 > Format: YYYY-MM-DD — Short header
 > Key changes in bullet points.
 
+## 2026-04-18 — Update
+- **Networking** - Removed bullet lists to improve readability
+
+## 2026-04-17 — Update
+- **Networking** - Updated styles and fonts
+
 ## 2026-04-13 — Update
 - **Networking** - Books are done... ...for now...
 
