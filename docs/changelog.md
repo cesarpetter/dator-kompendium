@@ -3,6 +3,10 @@
 > Format: YYYY-MM-DD — Short header
 > Key changes in bullet points.
 
+## 2026-04-21 — Update
+- **Networking** - Fixed formatting
+- **Computer technology** - Added case-function in Linux grundläggande komandon
+
 ## 2026-04-18 — Update
 - **Networking** - Removed bullet lists to improve readability
 
