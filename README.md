@@ -17,7 +17,9 @@ Nu uppdaterad och migrerad till samma smidiga kapitelformat som datortekniken.
 
 ## ⤓ Ladda ner som PDF
 - [Datorteknik (PDF)](docs/assets/pdf/datorteknik.pdf)
+- [Datorteknik-Arbetsbok (PDF)](docs/assets/pdf/datorteknik-arbetsbok.pdf)
 - [Nätverksteknik (PDF)](docs/assets/pdf/network.pdf)
+- [Nätverksteknik-Arbetsbok (PDF)](docs/assets/pdf/network-arbetsbok.pdf)
 
 ## Nytt & på gång
 - 📝 **Changelog:** [View changelog](docs/changelog.md)
@@ -51,7 +53,10 @@ Course material for upper-secondary IT students — written by Robin Bräck.
 
 **Download as PDF**
 - ⤓ **Computer Technology (PDF):** [Download](docs/assets/pdf/datorteknik.pdf)
+- ⤓ **Computer Technology-Workbook (PDF):** [Download](docs/assets/pdf/datorteknik-arbetsbok.pdf)
 - ⤓ **Networking (PDF):** [Download](docs/assets/pdf/network.pdf)
+- ⤓ **Networking-Workbook (PDF):** [Download](docs/assets/pdf/network-arbetsbok.pdf)
+
 
 ---
 

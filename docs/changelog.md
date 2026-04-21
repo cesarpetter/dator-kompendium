@@ -4,6 +4,10 @@
 > Key changes in bullet points.
 
 ## 2026-04-21 — Update
+- **Networking** - Created a workbook with all the questions from the book
+- **Computer technology** - Created a workbook with all the questions from the book
+
+## 2026-04-21 — Update
 - **Networking** - Fixed formatting
 - **Computer technology** - Added case-function in Linux grundläggande komandon
 
