@@ -3,6 +3,10 @@
 > Format: YYYY-MM-DD — Short header
 > Key changes in bullet points.
 
+## 2026-08-12 — Update
+- **Networking** - New cover and lic. info
+- **Computer technology** - New cover and lic. info
+
 ## 2026-04-21 — Update
 - **Networking** - Created a workbook with all the questions from the book
 - **Computer technology** - Created a workbook with all the questions from the book
